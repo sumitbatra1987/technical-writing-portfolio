@@ -27,7 +27,5 @@ This repository highlights the following competencies:
 - Documentation standards aligned with modern technical writing practices  
 - AI-assisted documentation workflows with quality controls  
 
----
 
-## Repository Structure
 
